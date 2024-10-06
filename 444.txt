@@ -1,0 +1,6 @@
+Detalles:
+ID de la Cita: 444
+Motivo: Consulta
+Fecha y Hora: 10 de Noviembre, 11:00 A.M
+Doctor: Mario Lopez
+Paciente: Miguel Torres
